@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/Teobokki/learn-japanese-easy/releases/download/v1.0.0/learn.japanese.easy.Setup.1.0.0.exe",
+  "installer_url": "https://github.com/Teobokki/learn-japanese-easy/releases/download/v1.0.0/learn.japanese.easy.Setup.1.0.0.exe",
+  "full_url": "https://github.com/Teobokki/learn-japanese-easy/releases/download/v1.0.0/learn.japanese.easy.1.0.0.Windows.x64.zip",
+  "portable_url": "https://github.com/Teobokki/learn-japanese-easy/releases/download/v1.0.0/learn.japanese.easy.1.0.0.Windows.x64.zip",
+  "release_url": "https://github.com/Teobokki/learn-japanese-easy/releases/tag/v1.0.0",
+  "sha256": "b8319322e9f7bf3c3d309b79123dc70884fd317f73710997647562ae61bb74f0",
+  "zip_sha256": "1062a5ebd36c97adc61a6b10487ac6b3814a6ffb09d9f70b34504997a2f2b11c",
+  "released": "2026-10-30",
+  "notes": "First release: page-turn Japanese ebook with kana and kanji reference pages, 40 words with furigana and romaji, quizzes, built-in audio, and a Page Maker (offline English to Japanese, auto furigana, ink brush, PNG/PDF export)."
+}
